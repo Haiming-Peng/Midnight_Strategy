@@ -11,7 +11,7 @@ class Strategy5:
         self.play_risk(input)
         
     # get 1 and 4 first
-                    
+                 yyyyyyyyy
     def play_risk(self, input):
         have_pick = False
         
